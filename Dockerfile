@@ -2,7 +2,7 @@
 # Kapott's Alpine Baseimage
 #
 
-FROM alpine:3.8
+FROM alpine:latest
 MAINTAINER kapott <kapott@aivd.33mail.com>
 
 # Install root filesystem
