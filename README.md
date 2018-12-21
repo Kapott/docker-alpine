@@ -2,7 +2,8 @@
   <img src="Alpine_Linux.svg">
 </p>
 
-
+[![](https://img.shields.io/docker/automated/kapott/alpine)](https://github.com/Kapott/docker-alpine)] [![](https://img.shields.io/docker/build/kapott/alpine.svg)](https://github.com/Kapott/docker-alpine)]
+	
 
 # Kapott's Alpine linux base image
 
