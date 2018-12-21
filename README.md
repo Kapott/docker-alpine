@@ -1,6 +1,8 @@
-<p align="center">
+<p align="left">
   <img src="Alpine_Linux.svg">
 </p>
+
+
 
 # Kapott's Alpine linux base image
 
